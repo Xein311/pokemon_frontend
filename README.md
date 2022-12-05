@@ -1,6 +1,6 @@
 # Modelos de Programación II
 
-Jonnathan Sotelo Rodríguez 
+Jonnathan Sotelo Rodríguez \
 Thomas Felipe Sarmiento
 
 Practica de Frontend con framework de javascript
