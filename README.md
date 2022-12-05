@@ -1,4 +1,6 @@
-# Modelos de Programación II
+# Modelos de Programación II 20-82
+
+Docente: Simar Enrique Herrera Jimenez
 
 Jonnathan Sotelo Rodríguez \
 Thomas Felipe Sarmiento
