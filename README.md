@@ -1,3 +1,9 @@
+# Modelos de Programación II 20-82 
+
+Docente: Simar Enrique Herrera Jimenez
+
+Jonnathan Sotelo Rodríguez \
+Thomas Felipe Sarmiento
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

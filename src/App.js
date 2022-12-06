@@ -19,8 +19,13 @@ export default function App() {
   const [favorites, setFavorites] = useState([]);
   const [notFound, setNotFound] = useState(false);
   const [searching, setSearching] = useState(false);
+  useEffect(() =>{
+    document.title= `Pagina Principal`
+  }, []);  
+
 
   const fetchPokemons = async () => {
+    
     try {
       setLoading(true);
       const data = await getPokemons(25, 25 * page);
