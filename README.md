@@ -9,7 +9,6 @@ Thomas Felipe Sarmiento
 
 Practica de Frontend con framework de javascript
 
->>>>>>> 8d2f9915199882a7d42215a0aa9cbb77a7f5cd5e
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
